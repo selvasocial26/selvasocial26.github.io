@@ -6,7 +6,7 @@ window.SELVA_PICKER = {
   // the desktop client), e.g. "1234-abc.apps.googleusercontent.com"
   clientId: "330111876154-rm4mrlrancmjb516ms91m94jmg48et7v.apps.googleusercontent.com",
   // API key restricted to the Google Picker API and to this website
-  apiKey: "",
+  apiKey: "AIzaSyAnn8nv5iqzrwM4IaBQn5SgN0wLiLIpcls",
   // Project number of the Google Cloud project (digits only)
   appId: "330111876154"
 };
